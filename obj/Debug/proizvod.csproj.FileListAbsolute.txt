@@ -1,3 +1,16 @@
+D:\abhishek\sonu's project\proizvod\bin\proizvod.dll.config
+D:\abhishek\sonu's project\proizvod\bin\proizvod.dll
+D:\abhishek\sonu's project\proizvod\bin\proizvod.pdb
+D:\abhishek\sonu's project\proizvod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\abhishek\sonu's project\proizvod\bin\System.Data.SqlClient.dll
+D:\abhishek\sonu's project\proizvod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\abhishek\sonu's project\proizvod\bin\System.Data.SqlClient.xml
+D:\abhishek\sonu's project\proizvod\obj\Debug\proizvod.csproj.AssemblyReference.cache
+D:\abhishek\sonu's project\proizvod\obj\Debug\proizvod.csproj.CoreCompileInputs.cache
+D:\abhishek\sonu's project\proizvod\obj\Debug\proizvod.csproj.CopyComplete
+D:\abhishek\sonu's project\proizvod\obj\Debug\proizvod.dll
+D:\abhishek\sonu's project\proizvod\obj\Debug\proizvod.pdb
+D:\PRJ\asp.net\proizvod\proizvod\obj\Debug\proizvod.csproj.CoreCompileInputs.cache
 D:\PRJ\asp.net\proizvod\proizvod\bin\proizvod.dll.config
 D:\PRJ\asp.net\proizvod\proizvod\bin\proizvod.dll
 D:\PRJ\asp.net\proizvod\proizvod\bin\proizvod.pdb
@@ -18,8 +31,12 @@ D:\PRJ\asp.net\proizvod\proizvod\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.
 D:\PRJ\asp.net\proizvod\proizvod\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
 D:\PRJ\asp.net\proizvod\proizvod\bin\roslyn\Microsoft.Managed.Core.targets
 D:\PRJ\asp.net\proizvod\proizvod\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PRJ\asp.net\proizvod\proizvod\bin\roslyn\System.Buffers.dll
 D:\PRJ\asp.net\proizvod\proizvod\bin\roslyn\System.Collections.Immutable.dll
+D:\PRJ\asp.net\proizvod\proizvod\bin\roslyn\System.Memory.dll
+D:\PRJ\asp.net\proizvod\proizvod\bin\roslyn\System.Numerics.Vectors.dll
 D:\PRJ\asp.net\proizvod\proizvod\bin\roslyn\System.Reflection.Metadata.dll
+D:\PRJ\asp.net\proizvod\proizvod\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
 D:\PRJ\asp.net\proizvod\proizvod\bin\roslyn\System.Text.Encoding.CodePages.dll
 D:\PRJ\asp.net\proizvod\proizvod\bin\roslyn\System.Threading.Tasks.Extensions.dll
 D:\PRJ\asp.net\proizvod\proizvod\bin\roslyn\vbc.exe
@@ -27,68 +44,6 @@ D:\PRJ\asp.net\proizvod\proizvod\bin\roslyn\vbc.exe.config
 D:\PRJ\asp.net\proizvod\proizvod\bin\roslyn\vbc.rsp
 D:\PRJ\asp.net\proizvod\proizvod\bin\roslyn\VBCSCompiler.exe
 D:\PRJ\asp.net\proizvod\proizvod\bin\roslyn\VBCSCompiler.exe.config
-D:\PRJ\asp.net\proizvod\proizvod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\PRJ\asp.net\proizvod\proizvod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\PRJ\asp.net\proizvod\proizvod\obj\Debug\proizvod.csproj.CoreCompileInputs.cache
 D:\PRJ\asp.net\proizvod\proizvod\obj\Debug\proizvod.csproj.CopyComplete
 D:\PRJ\asp.net\proizvod\proizvod\obj\Debug\proizvod.dll
 D:\PRJ\asp.net\proizvod\proizvod\obj\Debug\proizvod.pdb
-D:\PRJ\asp.net\proizvod\proizvod\bin\roslyn\System.Buffers.dll
-D:\PRJ\asp.net\proizvod\proizvod\bin\roslyn\System.Memory.dll
-D:\PRJ\asp.net\proizvod\proizvod\bin\roslyn\System.Numerics.Vectors.dll
-D:\PRJ\asp.net\proizvod\proizvod\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
-D:\PRJ\asp.net\proizvod\proizvod\bin\System.Data.SqlClient.dll
-D:\PRJ\asp.net\proizvod\proizvod\bin\System.Data.SqlClient.xml
-D:\PRJ\asp.net\proizvod\proizvod\obj\Debug\proizvod.csproj.AssemblyReference.cache
-D:\abhishek\sonu's project\proizvod\bin\proizvod.dll.config
-D:\abhishek\sonu's project\proizvod\bin\proizvod.dll
-D:\abhishek\sonu's project\proizvod\bin\proizvod.pdb
-D:\abhishek\sonu's project\proizvod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\abhishek\sonu's project\proizvod\bin\System.Data.SqlClient.dll
-D:\abhishek\sonu's project\proizvod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\abhishek\sonu's project\proizvod\bin\System.Data.SqlClient.xml
-D:\abhishek\sonu's project\proizvod\obj\Debug\proizvod.csproj.AssemblyReference.cache
-D:\abhishek\sonu's project\proizvod\obj\Debug\proizvod.csproj.CoreCompileInputs.cache
-D:\abhishek\sonu's project\proizvod\obj\Debug\proizvod.csproj.CopyComplete
-D:\abhishek\sonu's project\proizvod\obj\Debug\proizvod.dll
-D:\abhishek\sonu's project\proizvod\obj\Debug\proizvod.pdb
-F:\PRJ\proizvod\obj\Debug\proizvod.csproj.AssemblyReference.cache
-F:\PRJ\proizvod\obj\Debug\proizvod.csproj.CoreCompileInputs.cache
-F:\PRJ\proizvod\obj\Debug\proizvod.dll
-F:\PRJ\proizvod\obj\Debug\proizvod.pdb
-F:\PRJ\proizvod\bin\proizvod.dll.config
-F:\PRJ\proizvod\bin\proizvod.dll
-F:\PRJ\proizvod\bin\proizvod.pdb
-F:\PRJ\proizvod\bin\roslyn\csc.exe
-F:\PRJ\proizvod\bin\roslyn\csc.exe.config
-F:\PRJ\proizvod\bin\roslyn\csc.rsp
-F:\PRJ\proizvod\bin\roslyn\csi.exe
-F:\PRJ\proizvod\bin\roslyn\csi.exe.config
-F:\PRJ\proizvod\bin\roslyn\csi.rsp
-F:\PRJ\proizvod\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-F:\PRJ\proizvod\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-F:\PRJ\proizvod\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-F:\PRJ\proizvod\bin\roslyn\Microsoft.CodeAnalysis.dll
-F:\PRJ\proizvod\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-F:\PRJ\proizvod\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-F:\PRJ\proizvod\bin\roslyn\Microsoft.CSharp.Core.targets
-F:\PRJ\proizvod\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-F:\PRJ\proizvod\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-F:\PRJ\proizvod\bin\roslyn\Microsoft.Managed.Core.targets
-F:\PRJ\proizvod\bin\roslyn\Microsoft.VisualBasic.Core.targets
-F:\PRJ\proizvod\bin\roslyn\System.Buffers.dll
-F:\PRJ\proizvod\bin\roslyn\System.Collections.Immutable.dll
-F:\PRJ\proizvod\bin\roslyn\System.Memory.dll
-F:\PRJ\proizvod\bin\roslyn\System.Numerics.Vectors.dll
-F:\PRJ\proizvod\bin\roslyn\System.Reflection.Metadata.dll
-F:\PRJ\proizvod\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
-F:\PRJ\proizvod\bin\roslyn\System.Text.Encoding.CodePages.dll
-F:\PRJ\proizvod\bin\roslyn\System.Threading.Tasks.Extensions.dll
-F:\PRJ\proizvod\bin\roslyn\vbc.exe
-F:\PRJ\proizvod\bin\roslyn\vbc.exe.config
-F:\PRJ\proizvod\bin\roslyn\vbc.rsp
-F:\PRJ\proizvod\bin\roslyn\VBCSCompiler.exe
-F:\PRJ\proizvod\bin\roslyn\VBCSCompiler.exe.config
-F:\PRJ\proizvod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-F:\PRJ\proizvod\bin\System.Data.SqlClient.xml
-F:\PRJ\proizvod\obj\Debug\proizvod.csproj.CopyComplete

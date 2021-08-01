@@ -13,10 +13,26 @@ function showproducts(res) {
         row += '<h2 class="text-gray-900 title-font text-lg font-small">' + res[i].title + '</h2>';
         row += '<div>'
         row += '<lable class="mt-1">$' + res[i].price + '</lable>';
-        row += '<button class="inline-flex ml-40 items-center relative bg-green-800 border-0 py-1 px-3 focus:outline-none hover:bg-blue-700 rounded text-white mt-4 md:mt-0">Add To Cart</Button>';
+        row += '<button  onclick="addtocart(\'' + res[i].image + '\',\'' + res[i].title + '\',\'' + res[i].price + '\')" class="inline-flex ml-40 items-center relative bg-green-800 border-0 py-1 px-3 focus:outline-none hover:bg-blue-700 rounded text-white mt-4 md:mt-0">Add To Cart</Button>';
         row += '</div>'
         row += '</div>';
         row += '</div>';
         $("#lstproduts").append(row)
     }
+}
+
+function addtocart(image, titile ,price) {
+    $.ajax({
+        type: "POST",
+        url: "CheckOut.aspx/usercartdata",
+        data: "{ image:'" + image + "',titile:'" + titile + "',price:'" + price + "'}",
+        contentType: "application/json; charset=utf-8",
+        dataType: "json",
+        success: function (data) {
+            toastr.info('Added To Cart Successfully');
+            return false;
+        },
+        error: function (data) {
+        }
+    });
 }

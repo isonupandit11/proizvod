@@ -99,13 +99,9 @@
     <Content Include="CheckOut.aspx" />
     <Content Include="ContactUs.aspx" />
     <Content Include="Home.aspx" />
+    <Content Include="js\js_common.js" />
     <Content Include="js\js_products.js" />
     <Content Include="js\js_signup.js" />
-    <Content Include=".vs\proizvod\config\applicationhost.config" />
-    <Content Include=".vs\proizvod\DesignTimeBuild\.dtbcache.v2" />
-    <Content Include=".vs\proizvod\v17\.suo" />
-    <Content Include=".vs\slnx.sqlite" />
-    <Content Include=".vs\VSWorkspaceState.json" />
     <Content Include="bin\proizvod.dll.config" />
     <Content Include="bin\roslyn\csc.exe.config" />
     <Content Include="bin\roslyn\csc.rsp" />
@@ -117,7 +113,7 @@
     <Content Include="bin\roslyn\vbc.exe.config" />
     <Content Include="bin\roslyn\vbc.rsp" />
     <Content Include="bin\roslyn\VBCSCompiler.exe.config" />
-    <Content Include="Login.aspx" />
+    <Content Include="js\js_userlogin.js" />
     <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <Content Include="obj\Debug\proizvod.csproj.AssemblyReference.cache" />
     <Content Include="obj\Debug\proizvod.csproj.CopyComplete" />
@@ -198,6 +194,7 @@
     <Content Include="packages\System.Data.SqlClient.4.8.2\System.Data.SqlClient.4.8.2.nupkg" />
     <Content Include="About.aspx~RF2af88c.TMP" />
     <None Include="Scripts\jquery-3.6.0.intellisense.js" />
+    <Content Include="Login.aspx" />
     <Content Include="obj\Debug\proizvod.csproj.FileListAbsolute.txt" />
     <Content Include="obj\Debug\proizvod.dll" />
     <Content Include="obj\Debug\proizvod.pdb" />
