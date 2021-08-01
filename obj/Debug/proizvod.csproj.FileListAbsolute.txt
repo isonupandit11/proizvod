@@ -40,3 +40,15 @@ D:\PRJ\asp.net\proizvod\proizvod\bin\roslyn\System.Runtime.CompilerServices.Unsa
 D:\PRJ\asp.net\proizvod\proizvod\bin\System.Data.SqlClient.dll
 D:\PRJ\asp.net\proizvod\proizvod\bin\System.Data.SqlClient.xml
 D:\PRJ\asp.net\proizvod\proizvod\obj\Debug\proizvod.csproj.AssemblyReference.cache
+D:\abhishek\sonu's project\proizvod\bin\proizvod.dll.config
+D:\abhishek\sonu's project\proizvod\bin\proizvod.dll
+D:\abhishek\sonu's project\proizvod\bin\proizvod.pdb
+D:\abhishek\sonu's project\proizvod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\abhishek\sonu's project\proizvod\bin\System.Data.SqlClient.dll
+D:\abhishek\sonu's project\proizvod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\abhishek\sonu's project\proizvod\bin\System.Data.SqlClient.xml
+D:\abhishek\sonu's project\proizvod\obj\Debug\proizvod.csproj.AssemblyReference.cache
+D:\abhishek\sonu's project\proizvod\obj\Debug\proizvod.csproj.CoreCompileInputs.cache
+D:\abhishek\sonu's project\proizvod\obj\Debug\proizvod.csproj.CopyComplete
+D:\abhishek\sonu's project\proizvod\obj\Debug\proizvod.dll
+D:\abhishek\sonu's project\proizvod\obj\Debug\proizvod.pdb
