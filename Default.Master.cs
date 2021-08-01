@@ -11,7 +11,16 @@ namespace proizvod
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            if (Session["UserId"] != null)
+            {
+                lgnhdr.Visible = false;
+                usrname.InnerHtml = "Welcome " + Session["UserName"] + "";
+            }
+            else
+            {
+                usrlgt.Visible = false;
+                usrname.Visible = false;
+            }
         }
     }
 }
