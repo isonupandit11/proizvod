@@ -67,12 +67,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="About.aspx" />
     <Content Include="ContactUs.aspx" />
     <Content Include="Home.aspx" />
     <Content Include="Web.config" />
     <Content Include="Signup.aspx" />
+    <Content Include="Login.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
     <Compile Include="ContactUs.aspx.cs">
       <DependentUpon>ContactUs.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -101,6 +110,13 @@
     </Compile>
     <Compile Include="Signup.aspx.designer.cs">
       <DependentUpon>Signup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
