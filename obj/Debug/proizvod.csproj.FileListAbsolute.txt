@@ -47,3 +47,4 @@ D:\PRJ\asp.net\proizvod\proizvod\bin\roslyn\VBCSCompiler.exe.config
 D:\PRJ\asp.net\proizvod\proizvod\obj\Debug\proizvod.csproj.CopyComplete
 D:\PRJ\asp.net\proizvod\proizvod\obj\Debug\proizvod.dll
 D:\PRJ\asp.net\proizvod\proizvod\obj\Debug\proizvod.pdb
+D:\PRJ\asp.net\proizvod\proizvod\obj\Debug\proizvod.csproj.AssemblyReference.cache

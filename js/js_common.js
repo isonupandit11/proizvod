@@ -6,8 +6,10 @@
         contentType: "application/json; charset=utf-8",
         dataType: "json",
         success: function (data) {
+            setTimeout(function () {
+                window.location = "Home.aspx";
+            }, 2000);
             toastr.success('Logged Out Successfully');
-            window.location = "Home.aspx";
         },
         error: function (data) {
 
@@ -24,7 +26,7 @@ function usrchklgn() {
         dataType: "json",
         success: function (data) {
             if (data.d) {
-
+                window.location = "ContactUS.aspx";
             }
             else {
                 setTimeout(function () {
