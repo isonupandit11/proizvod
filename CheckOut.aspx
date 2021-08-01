@@ -1,6 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Default.Master" AutoEventWireup="true" CodeBehind="CheckOut.aspx.cs" Inherits="proizvod.CheckOut" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <script src="js/js_checkout.js"></script>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="h-screen bg-gray-300">
@@ -11,20 +12,8 @@
                         <div class="md:grid md:grid-cols-3 gap-2 ">
                             <div class="col-span-2 p-5">
                                 <h1 class="text-xl font-medium ">Shopping Cart</h1>
-                                <div class="flex justify-between items-center mt-6 pt-6">
-                                    <div class="flex items-center">
-                                        <img src="https://i.imgur.com/EEguU02.jpg" width="60" class="rounded-full ">
-                                        <div class="flex flex-col ml-3"><span class="md:text-md font-medium">Chicken momo</span> <span class="text-xs font-light text-gray-400">#41551</span> </div>
-                                    </div>
-                                    <div class="flex justify-center items-center">
-                                        <div class="pr-8 flex ">
-                                            <span class="font-semibold">-</span>
-                                            <input type="text" class="focus:outline-none bg-gray-100 border h-6 w-8 rounded text-sm px-2 mx-2" value="1">
-                                            <span class="font-semibold">+</span>
-                                        </div>
-                                        <div class="pr-8 "><span class="text-xs font-medium">$10.50</span> </div>
-                                        <div><i class="fa fa-close text-xs font-medium"></i></div>
-                                    </div>
+                                <div id="product" class="justify-between items-center mt-6 pt-6">
+                                    
                                 </div>
                             </div>
                             <div class=" p-5 bg-gray-800 rounded overflow-visible">
@@ -33,7 +22,7 @@
                                     <div class="rounded w-52 h-28 bg-gray-500 py-2 px-4 relative right-10">
                                         <span class="italic text-lg font-medium text-gray-200 underline">VISA</span>
                                         <div class="flex justify-between items-center pt-4 "><span class="text-xs text-gray-200 font-medium">****</span> <span class="text-xs text-gray-200 font-medium">****</span> <span class="text-xs text-gray-200 font-medium">****</span> <span class="text-xs text-gray-200 font-medium">****</span> </div>
-                                        <div class="flex justify-between items-center mt-3"><span class="text-xs text-gray-200">Giga Tamarashvili</span> <span class="text-xs text-gray-200">12/18</span> </div>
+                                        <div class="flex justify-between items-center mt-3"><span class="text-xs text-gray-200">Deepti Chaudhary</span> <span class="text-xs text-gray-200">12/18</span> </div>
                                     </div>
                                     <div class="flex justify-center items-center flex-col">
                                         <img src="https://img.icons8.com/color/96/000000/mastercard-logo.png" width="40" class="relative right-5" />
@@ -42,7 +31,7 @@
                                 </div>
                                 <div class="flex justify-center flex-col pt-3">
                                     <label class="text-xs text-gray-400 ">Name on Card</label>
-                                    <input type="text" class="focus:outline-none w-full h-6 bg-gray-800 text-white placeholder-gray-300 text-sm border-b border-gray-600 py-4" placeholder="Giga Tamarashvili">
+                                    <input type="text" class="focus:outline-none w-full h-6 bg-gray-800 text-white placeholder-gray-300 text-sm border-b border-gray-600 py-4">
                                 </div>
                                 <div class="flex justify-center flex-col pt-3">
                                     <label class="text-xs text-gray-400 ">Card Number</label>
