@@ -18,7 +18,7 @@ namespace proizvod
             }
             else
             {
-                usrlgt.Visible = false;
+                usrloggedin.Visible = false;
                 usrname.Visible = false;
             }
         }

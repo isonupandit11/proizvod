@@ -33,13 +33,13 @@ namespace proizvod
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl lgnhdr;
 
         /// <summary>
-        /// usrlgt control.
+        /// usrloggedin control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlAnchor usrlgt;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl usrloggedin;
 
         /// <summary>
         /// usrname control.
