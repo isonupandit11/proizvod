@@ -58,6 +58,16 @@ namespace proizvod
                 return JSONString;
             }
         }
+        [WebMethod]
+        public static void deletecartitem(int id)
+        {
+                SqlConnection con = new SqlConnection(WebConfigurationManager.ConnectionStrings["connectionString"].ConnectionString);
+                con.Open();
+                string delete = "DELETE FROM clm_cartdetails where product_id= " + id + "";
+                SqlCommand cmd = new SqlCommand(delete, con);
+                int m = cmd.ExecuteNonQuery();
+                con.Close();
+        }
 
     }
 }

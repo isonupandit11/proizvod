@@ -1,4 +1,5 @@
 ﻿function usersignup() {
+    debugger;
     
     var Name = jQuery('[id$=ddlname]').val();
     var Email = jQuery('[id$=ddlemail]').val();

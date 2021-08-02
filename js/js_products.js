@@ -4,7 +4,8 @@
         .then(json => showproducts(json))
 });
 
-function showproducts(res) {
+function showproducts(res)
+{
     for (var i = 0; i < res.length; i++) {
         var row = '<div class="lg:w-1/4 md:w-1/2 p-4 w-full">';
         row += '<a class="block relative h-48 rounded overflow-hidden"><img alt="ecommerce" class="object-cover object-center w-full h-full block"  src="' + res[i].image + '"></a>';
@@ -22,6 +23,7 @@ function showproducts(res) {
 }
 
 function addtocart(image, titile, price, id) {
+    debugger;
     $.ajax({
         type: "POST",
         url: "CheckOut.aspx/addtocart",
