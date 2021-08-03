@@ -12,8 +12,10 @@
         contentType: "application/json; charset=utf-8",
         dataType: "json",
         success: function (data) {
+            setTimeout(function () {
+                location.reload();
+            }, 2000);
             toastr.info('SignedUp Successfully Please Login To Continue');
-            return false;
         },
         error: function (data) {
             toastr.error('Something Went Wrong');

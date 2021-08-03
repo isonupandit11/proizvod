@@ -12,7 +12,10 @@
                         <div class="md:grid md:grid-cols-3 gap-2 ">
                             <div class="col-span-2 p-5">
                                 <h1 class="text-xl font-medium ">Shopping Cart</h1>
-                                <div id="product" class="justify-between items-center mt-6 pt-6">
+                                <div id="product" class="justify-between items-center  mt-6 pt-6">
+                                    
+                                </div>
+                                <div id="total" class="justify-between ml-32 items-center mt-6 pt-6">
                                     
                                 </div>
                             </div>

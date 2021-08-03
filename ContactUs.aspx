@@ -1,5 +1,6 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Default.Master" AutoEventWireup="true" CodeBehind="ContactUs.aspx.cs" Inherits="proizvod.Contact_Us" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <script src="js/js_contactus.js"></script>
     <title>Contact Us</title>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -14,7 +15,7 @@
         <div class="p-2 w-1/2">
           <div class="relative">
             <label for="name" class="leading-7 text-sm text-gray-400">Name</label>
-            <input type="text" id="name" name="name" class="w-full bg-gray-800 bg-opacity-40 rounded border border-gray-700 focus:border-indigo-500 focus:bg-gray-900 focus:ring-2 focus:ring-indigo-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
+            <input type="text" id="ddlname" name="name" class="w-full bg-gray-800 bg-opacity-40 rounded border border-gray-700 focus:border-indigo-500 focus:bg-gray-900 focus:ring-2 focus:ring-indigo-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
           </div>
         </div>
         <div class="p-2 w-1/2">
@@ -30,7 +31,7 @@
           </div>
         </div>
         <div class="p-2 w-full">
-          <button class="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Submit</button>
+          <button onclick="usrquery();" class="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Submit</button>
         </div>
         <div class="p-2 w-full pt-8 mt-8 border-t border-gray-800 text-center">
           <a class="text-indigo-400">chaudharydeepti176@gmail.com</a>

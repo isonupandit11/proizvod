@@ -104,6 +104,7 @@
     <Content Include="Home.aspx" />
     <Content Include="js\js_checkout.js" />
     <Content Include="js\js_common.js" />
+    <Content Include="js\js_contactus.js" />
     <Content Include="js\js_products.js" />
     <Content Include="js\js_signup.js" />
     <Content Include="bin\proizvod.dll.config" />
