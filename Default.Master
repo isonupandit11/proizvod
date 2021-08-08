@@ -19,6 +19,7 @@
         <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
             <nav class="flex lg:w-2/5 flex-wrap items-center text-base md:ml-auto">
                 <a href="Home.aspx" class="mr-5 hover:text-white">Home</a>
+                <a href="CheckOut.aspx" class="mr-5 hover:text-white">Goto Cart </a>
                 <a href="About.aspx" class="mr-5 hover:text-white">About </a>
                 <a onclick="usrchklgn()" class="mr-5 hover:text-white">Contact Us</a>
                 <div id="lgnhdr" runat="server">
@@ -26,7 +27,6 @@
                     <a href="Login.aspx" class="mr-5 hover:text-white">Login</a>
                 </div>
                 <div id="usrloggedin" runat="server">
-                <a href="CheckOut.aspx" class="mr-5 hover:text-white">Goto Cart </a>
                 <a onclick="usrlogout()" class="mr-5 hover:text-white">Logout</a>
                 </div>
             </nav>

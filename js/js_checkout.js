@@ -53,6 +53,13 @@ function shwocartdata() {
                     $("#product").append(row);
                 }
             }
+            else {
+                var row = "";
+                row += '<div ><span class="md:text-md text-3xl m-36 font-small text-blue-900">Your cart is empty </span>';
+                row += '</div>';
+                $("#product").append(row)
+            }
+
         },
         error: function (data) {
         }

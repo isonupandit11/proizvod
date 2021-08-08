@@ -21,7 +21,7 @@
         <div class="p-2 w-1/2">
           <div class="relative">
             <label for="email" class="leading-7 text-sm text-gray-400">Email</label>
-            <input type="email" id="email" name="email" class="w-full bg-gray-800 bg-opacity-40 rounded border border-gray-700 focus:border-indigo-500 focus:bg-gray-900 focus:ring-2 focus:ring-indigo-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
+            <input type="email" id="email" name="email" class="w-full bg-gray-800 bg-opacity-40 rounded border border-gray-700 focus:border-indigo-500 focus:bg-gray-900 focus:ring-2 focus:ring-indigo-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"/>
           </div>
         </div>
         <div class="p-2 w-full">
@@ -36,7 +36,7 @@
         <div class="p-2 w-full pt-8 mt-8 border-t border-gray-800 text-center">
           <a class="text-indigo-400">chaudharydeepti176@gmail.com</a>
           <p class="leading-normal my-5">Sigma Apartments
-            <br>Beta 1, Gr Noida(201013)
+            <br/>Beta 1, Gr Noida(201013)
           </p>
           <span class="inline-flex">
             <a  href="https://www.facebook.com/isonupandit11/"  class="text-gray-500">
